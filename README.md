@@ -1,1 +1,3 @@
 # 2-link-Biped-Robot
+
+This projects talks about a controller for biped robot which is inspired from human walking which is more efficient. The controller has its core principles acquired from control law partitioning or feedback linearization method which is classical control technique used to control fully actuated robots, but there is a slight variation incorporated here as the robot is fundamentally underactuated. Intelligent control Technique like Fuzzy Inference System is also implemented on the robot in fusion with the classical feedback linearization technique like control law partitioning.  
